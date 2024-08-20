@@ -1,0 +1,233 @@
+
+body {
+    font-family: system-ui;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 70px;
+	background: url('../images/background.jpg') no-repeat center center/cover;
+}
+
+body::before{
+	opacity: 0.7;
+}
+h1, h2 {
+    color: lightyellow;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.tab {
+    width: 350px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 0 5px;
+    text-decoration: none;
+    color: #446243;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-size: 1.3em;
+}
+
+.tab.environmental {
+    background-color: #f1f0b0;
+}
+
+.tab.social {
+    background-color: #c8d47a;
+}
+
+.tab.governance {
+    background-color: #b0dbed;
+}
+
+.tab:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+.tab.active.environmental {
+    background-color: #f7f597;
+    color: #333;
+}
+
+.tab.active.social {
+    background-color: #c8d47a;
+    color: #333;
+}
+
+.tab.active.governance {
+    background-color: #87d2f2;
+    color: #333;
+}
+
+.subpart-container {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #ffffff2d;
+}
+
+.subpart-title {
+    font-size: 1.4em;
+    margin: 0;
+    padding: 10px;
+    color: #0056b3;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.questions-container {
+    display: none;
+    margin-top: 10px;
+	background-color: #dddddd29;
+}
+
+.form-control {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.form-control label {
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.form-control input[type="radio"] {
+    margin-right: 10px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+	justify-content: justify;
+}
+
+.button-container button {
+    background-color: white;
+    border: 2px #003366;
+    border-radius: 5px;
+    color: #003366;
+    cursor: pointer;
+    font-size: 1.1em;
+    margin: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+}
+
+.back-button {
+    background-color: white;
+    border: 2px #003366;
+    border-radius: 5px;
+    color: #003366;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: background-color 0.3s;
+}
+
+.progress-bar-container {
+    position: relative;
+    width: 100%;
+    background-color: #f3f3f3;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 2px;
+    z-index: 1000;
+    transition: all 0.3s ease; /* Smooth transition */
+}
+
+.progress-bar-container.fixed {
+    position: fixed;
+    bottom: 0;
+}
+
+.progress-bar {
+    width: 0;
+    height: 20px;
+    background-color: grey;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 3px;
+}
+
+.part-container {
+    border: 2px solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.part-container.environmental {
+    border-color: #f1f0b0;
+    background-color: #f1f0b0;
+}
+
+.part-container.social {
+    border-color: #c8d47a;
+    background-color: #c8d47a;
+}
+
+.part-container.governance {
+    border-color: #b0dbed;
+    background-color: #b0dbed;
+}
+
+.subpart-container {
+    margin-bottom: 10px;
+}
+
+.subpart-title {
+    cursor: pointer;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+	color:black;
+}
+
+.nav-button {
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    color: #0056b3;
+    cursor: pointer;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+	justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+	width: 300px;
+	display:inline-block;
+}
+
+
+.button-container button:hover, .nav-button:hover {
+    background-color: #004494;
+}
+
+.button-container button:active, .nav-button:active {
+    background-color: #003366;
+}

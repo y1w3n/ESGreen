@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <ul class="sidebar-menu">
+                <li><a href="1_main.html">Overview</a></li>
+                <li><a href="2_kb.php">Tasks</a></li>
+				<li><a href="../end_user/1_overview_flow.php">Client Portal</a></li>
+                <li><a href="3_user.php">Users Management</a></li>
+                <li><a href="4_geninfo_mt.php">Generic Information Master Data</a></li>
+                <li><a href="5_geninfo_tr.php">Users Background</a></li>
+                <li><a href="6_ma_mt.php">Materiality Assessment Questions</a></li>
+                <li><a href="7_hc_mt.php">Health Check Assessment Questions</a></li>
+                <li><a href="8_qs_tr.php">Users Submissions Status</a></li>
+                <li><a href="9_rp_vis.html">Reports</a></li>
+				<li><a href="10_dev.html">Development Portal</a></li>
+                <li><a href="logout.php">Logout</a></li>
+            </ul>
+        </aside>
+        <div class="main-content">
+            <header class="header">
+				<img src="assets/images/esgreen.png" alt="Logo 1" class="logo1">
+                <h1>Welcome, Admin</h1>
+                <div class="logo-container">
+                    <img src="assets/images/sunway-logo.png" alt="Logo 2" class="logo">
+                </div>
+            </header>
+            <div class="content">
+                <h2>Dashboard</h2>
+                <p>This is the admin dashboard where you can manage users, view reports, and change settings.</p>
+                <div class="dashboard-cards">
+                    <div class="card">
+                        <h3>Generic Information</h3>
+                        <a class="card-link" href="4_geninfo_mt.php"><i class="fas fa-table"></i> Company Background</a>
+                        <a class="card-link" href="5_geninfo_tr.php"><i class="fas fa-file-alt"></i> User Background Info</a>
+                    </div>
+                    <div class="card">
+                        <h3>Materiality Assessment</h3>
+                        <a class="card-link" href="6_ma_mt.php"><i class="fas fa-table"></i> Assessment Questions</a>
+                    </div>
+                    <div class="card">
+                        <h3>Healthcheck Assessment</h3>
+                        <a class="card-link" href="7_hc_mt.php"><i class="fas fa-table"></i> Assessment Questions</a>
+                    </div>
+                    <div class="card">
+                        <h3>User Assessment Submission</h3>
+                        <a class="card-link" href="8_qs_tr.php"><i class="fas fa-table"></i> Status of Submission</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<script>
+        document.querySelectorAll('.stepper li').forEach((step, index) => {
+            step.style.animationDelay = `${index * 0.05}s`;
+        });
+    </script>
+</body>
+</html>

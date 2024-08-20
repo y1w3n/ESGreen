@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  /* background: -webkit-linear-gradient(left, #2b5876, #4e4376); */
+  background: url('../images/background1.png') no-repeat center center/cover;
+}
+
+::selection {
+  background: #6a82fb;
+  color: #fff;
+}
+
+/* Wrapper styles */
+.wrapper {
+  overflow: hidden;
+  max-width: 90%;
+  /* background: -webkit-linear-gradient(left, #f1f0b0, #f1f0b0); */
+  background: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 15px 25px rgba(0,0,0,0.1);
+}
+
+@media (min-width: 600px) {
+  .wrapper {
+    padding: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    max-width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .wrapper {
+    max-width: 990px;
+  }
+}
+
+.user-icon {
+  display: block;
+  margin: 0 auto 20px;
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.wrapper h1 {
+  font-size: calc(28px - 5%);
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+@media (min-width: 768px) {
+  .wrapper h1 {
+    font-size: calc(35px - 5%);
+  }
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.field label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #333;
+}
+
+.field input, .field select {
+	background-color: rgba(255, 255, 255, 0.5);
+  width: 100%;
+  padding: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  font-size: calc(16px - 5%);
+  transition: all 0.3s ease;
+}
+
+.field.btn {
+  text-align: center;
+}
+
+.field.btn button {
+  padding: 10px 20px;
+  background: -webkit-linear-gradient(left, #446243, #446243);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: calc(16px - 5%);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.field .skip-button {
+    padding: 10px 20px;
+    background: -webkit-linear-gradient(left, #446243, #446243);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: calc(16px - 5%);
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+}

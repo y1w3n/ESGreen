@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    .total-score {
+      background-color: #d1e7dd; /* Light green */
+      font-weight: bold;
+    }
+    .result-startup {
+      background-color: pink;
+    }
+    .result-emerging {
+      background-color: yellow;
+    }
+    .result-mature {
+      background-color: lightgreen;
+    }
+    .chart-container {
+      border: 2px solid black; /* Add border around the chart */
+      padding: 10px;
+      background-color: white; /* Add a white background for better contrast */
+    }
+  </style>
+</head>
+<body>
+  <h1>Dashboard</h1>
+  <div id="cardsContainer" class="card-container"></div>
+  <script>
+    function getUrlParameter(name) {
+      name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+      const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+      const results = regex.exec(location.search);
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+
+    async function fetchData(assessmentId) {
+      const url = `http://localhost/esgreen/end_user/5_dash_api.php?assessment_id=${assessmentId}`;
+      console.log('Fetching data from URL:', url);
+
+      try {
+        const response = await fetch(url);
+        console.log('Response status:', response.status);
+
+        if (!response.ok) throw new Error('Network response was not ok');
+        const data = await response.json();
+        console.log('Fetched Data:', data); // Log the fetched data
+        return data;
+      } catch (error) {
+        console.error('Fetch error:', error);
+        return { error: 'Failed to fetch data' };
+      }
+    }
+
+    function getOverallResult(score) {
+      if (score >= 7.5) return 'Mature';
+      if (score >= 5.0) return 'Emerging';
+      return 'Startup';
+    }
+
+    function aggregateScores(questions) {
+      const partSummary = {};
+
+      questions.forEach(({ part, subpart, score }) => {
+        const parsedScore = parseFloat(score);
+        if (isNaN(parsedScore)) {
+          console.warn(`Invalid score for part: ${part}, subpart: ${subpart}`, score);
+          return;
+        }
+
+        if (!partSummary[part]) {
+          partSummary[part] = { total_score: 0, subparts: {} };
+        }
+
+        partSummary[part].total_score += parsedScore;
+
+        if (!partSummary[part].subparts[subpart]) {
+          partSummary[part].subparts[subpart] = 0;
+        }
+
+        partSummary[part].subparts[subpart] += parsedScore;
+      });
+
+      return partSummary;
+    }
+
+    function getResultClass(result) {
+      if (result === 'Mature') return 'result-mature';
+      if (result === 'Emerging') return 'result-emerging';
+      if (result === 'Startup') return 'result-startup';
+      return '';
+    }
+
+    async function createCards() {
+      const assessmentId = getUrlParameter('assessment_id');
+      if (!assessmentId) {
+        alert('Assessment ID is not valid or not provided.');
+        return;
+      }
+
+      const data = await fetchData(assessmentId);
+      if (data.error) {
+        alert(data.error);
+        return;
+      }
+
+      const { geninfo, analysis, questions } = data;
+      const cardsContainer = document.getElementById('cardsContainer');
+
+      if (geninfo.length === 0) {
+        alert('No data found for the provided assessment ID.');
+        return;
+      }
+
+      geninfo.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'card';
+
+        const cardInfo = document.createElement('div');
+        cardInfo.className = 'card-info';
+
+        const filteredOverallData = analysis.filter(d => d.assessment_id === item.assessments_assessment_id);
+        const overallScore = filteredOverallData.reduce((sum, d) => sum + d.overall_score, 0) / filteredOverallData.length;
+        const overallResult = getOverallResult(overallScore);
+        const resultClass = getResultClass(overallResult);
+
+        const partSummary = aggregateScores(questions);
+
+        let summaryHtml = `
+          <table>
+            <thead>
+              <tr>
+                <th>Part</th>
+                <th>Subpart</th>
+                <th>Score</th>
+              </tr>
+            </thead>
+            <tbody>`;
+        for (const [part, { total_score, subparts }] of Object.entries(partSummary)) {
+          for (const [subpart, subpart_score] of Object.entries(subparts)) {
+            summaryHtml += `
+              <tr>
+                <td>${part}</td>
+                <td>${subpart}</td>
+                <td>${subpart_score.toFixed(2)}</td>
+              </tr>`;
+          }
+          summaryHtml += `
+              <tr class="total-score">
+                <td>${part} Total</td>
+                <td></td>
+                <td>${total_score.toFixed(2)}</td>
+              </tr>`;
+        }
+        summaryHtml += `
+            </tbody>
+          </table>`;
+
+        cardInfo.innerHTML = `
+          <h2>Assessment ID: ${item.assessments_assessment_id}</h2>
+          <p><strong>User ID:</strong> ${item.assessments_user_id}</p>
+          <p><strong>Assessment Date:</strong> ${new Date(item.assessments_assessment_date).toLocaleDateString()}</p>
+          <p><strong>Company Name:</strong> ${item.geninfo_tr_company_name}</p>
+          <p><strong>Industry:</strong> ${item.geninfo_tr_industry}</p>
+          <p><strong>Function:</strong> ${item.geninfo_tr_function}</p>
+          <p><strong>Overall Score:</strong> ${overallScore.toFixed(2)}</p>
+          <p><strong>Result:</strong> ${overallResult}</p>
+          ${summaryHtml}
+        `;
+        card.appendChild(cardInfo);
+        card.classList.add(resultClass);
+
+        if (filteredOverallData.length > 0) {
+          const pieChartContainer = document.createElement('div');
+          pieChartContainer.className = 'chart-container';
+          const canvasPie = document.createElement('canvas');
+          canvasPie.id = `pieChart-${item.assessments_assessment_id}`;
+          canvasPie.width = 200;
+          canvasPie.height = 200;
+          pieChartContainer.appendChild(canvasPie);
+
+          const barChartContainer = document.createElement('div');
+          barChartContainer.className = 'chart-container';
+          const canvasBar = document.createElement('canvas');
+          canvasBar.id = `barChart-${item.assessments_assessment_id}`;
+          canvasBar.width = 400;
+          canvasBar.height = 200;
+          barChartContainer.appendChild(canvasBar);
+
+          card.appendChild(pieChartContainer);
+          card.appendChild(barChartContainer);
+          cardsContainer.appendChild(card);
+
+          const labels = filteredOverallData.map(d => d.category);
+          const scores = filteredOverallData.map(d => d.overall_score);
+
+          const ctxPie = canvasPie.getContext('2d');
+          new Chart(ctxPie, {
+            type: 'pie',
+            data: {
+              labels: labels,
+              datasets: [{
+                label: 'Overall Score',
+                data: scores,
+                backgroundColor: [
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(54, 162, 235, 0.2)',
+                  'rgba(255, 206, 86, 0.2)',
+                  'rgba(75, 192, 192, 0.2)',
+                  'rgba(153, 102, 255, 0.2)',
+                  'rgba(255, 159, 64, 0.2)'
+                ],
+                borderColor: [
+                  'rgba(255, 99, 132, 1)',
+                  'rgba(54, 162, 235, 1)',
+                  'rgba(255, 206, 86, 1)',
+                  'rgba(75, 192, 192, 1)',
+                  'rgba(153, 102, 255, 1)',
+                  'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+              }]
+            },
+            options: {
+              responsive: true,
+              plugins: {
+                legend: {
+                  position: 'top',
+                },
+                title: {
+                  display: true,
+                  text: `Overall Scores for Assessment ID: ${item.assessments_assessment_id}`
+                }
+              }
+            }
+          });
+
+          const ctxBar = canvasBar.getContext('2d');
+          const barLabels = Object.keys(partSummary).map(part => part);
+          const barData = Object.values(partSummary).map(({ total_score }) => total_score);
+
+          new Chart(ctxBar, {
+            type: 'bar',
+            data: {
+              labels: barLabels,
+              datasets: [{
+                label: 'Total Score by Part',
+                data: barData,
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+              }]
+            },
+            options: {
+              scales: {
+                y: {
+                  beginAtZero: true
+                }
+              },
+              plugins: {
+                legend: {
+                  position: 'top',
+                },
+                title: {
+                  display: true,
+                  text: `Total Scores by Part for Assessment ID: ${item.assessments_assessment_id}`
+                }
+              }
+            }
+          });
+
+        } else {
+          cardsContainer.appendChild(card);
+        }
+      });
+    }
+    createCards();
+  </script>
+  <div class="step">
+    <h2>Contact Us</h2>
+    <a href="1_overview_flow.php" class="step">Back</a>
+    <a href="consultation_handler.php" class="step">Consultation</a>
+  </div>
+</body>
+</html>

@@ -1,0 +1,5414 @@
+
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1978
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1979
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1980
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1981
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1982
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1983
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1984
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1985
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1986
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1987
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1988
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1989
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1990
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1991
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1992
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1993
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1994
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1995
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1996
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1997
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1998
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1999
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2000
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2001
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2002
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2003
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2004
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2005
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2006
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2007
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2008
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2009
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2010
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2011
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2012
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2013
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2014
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2015
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2016
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 24
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 9
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2017
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2018
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2019
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2020
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2021
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2022
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2023
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2024
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2025
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2026
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2027
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2028
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2029
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2030
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2031
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2032
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2033
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2034
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2035
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2036
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2037
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2038
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2039
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2040
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2041
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2042
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2043
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2044
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2045
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2046
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2047
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2048
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2049
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2050
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2051
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2052
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2053
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2054
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2055
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 24
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 9
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 1
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 2
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 3
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 4
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 5
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 6
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 7
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 8
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 9
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 10
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 11
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 12
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 13
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 14
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 15
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 16
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 17
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 18
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 19
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 20
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 21
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 22
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 23
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 24
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 25
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 26
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 27
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 28
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 29
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 30
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 31
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 32
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 33
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 34
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 35
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 36
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 37
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 38
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 39
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 24
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 9
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 40
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 41
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 42
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 43
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 44
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 45
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 46
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 47
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 48
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 49
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 50
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 51
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 52
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 53
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 54
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 55
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 56
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 57
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 58
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 59
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 60
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 61
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 62
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 63
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 64
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 65
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 66
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 67
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 68
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 69
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 70
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 71
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 72
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 73
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 74
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 75
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 76
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 77
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 78
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 79
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 80
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 81
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 82
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 83
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 84
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 85
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 86
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 87
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 88
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 89
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 90
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 91
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 92
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 93
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 15
+    [overall_score] => 10
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 94
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 95
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 96
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 97
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 98
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 99
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 100
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 101
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 102
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 103
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 104
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 105
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 106
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 107
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 108
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 109
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 110
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 111
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 112
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 113
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 114
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 115
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 116
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 117
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 118
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 119
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 120
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 0
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 8
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 3
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 121
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 122
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 123
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 124
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 125
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 126
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 127
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 128
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 129
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 130
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 131
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 132
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 133
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 134
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 135
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 136
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 137
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 138
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 139
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 140
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 141
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 142
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 143
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 144
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 145
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 146
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 147
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 8
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 148
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 149
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 150
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 151
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 152
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 153
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 154
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 155
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 156
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 157
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 158
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 159
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 160
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 161
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 162
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 163
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 164
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 165
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 166
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 167
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 168
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 169
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 170
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 171
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 172
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 173
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 174
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 175
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 176
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 177
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 178
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 179
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 180
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 181
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 182
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 183
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 184
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 185
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 186
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 18
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 5
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 187
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 188
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 189
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 190
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 191
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 192
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 193
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 194
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 195
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 196
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 197
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 198
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 199
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 200
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 201
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 202
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 203
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 204
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 205
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 206
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 207
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 208
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 209
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 210
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 4
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 211
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 212
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 213
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 214
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 215
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 216
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 217
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 218
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 219
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 220
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 221
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 222
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 223
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 224
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 225
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 226
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 227
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 228
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 229
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 230
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 231
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 232
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 233
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 234
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 235
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 236
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 237
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 238
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 239
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 240
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 5
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 15
+    [overall_score] => 13
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 241
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 242
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 243
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 244
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 245
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 246
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 247
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 248
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 249
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 250
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 251
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 252
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 253
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 254
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 255
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 256
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 257
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 258
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 259
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 260
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 261
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 262
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 263
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 264
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 265
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 266
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 267
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 8
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 268
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 269
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 270
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 271
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 272
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 273
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 274
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 275
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 276
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 277
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 278
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 279
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 280
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 281
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 282
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 283
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 284
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 285
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 286
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 287
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 288
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 289
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 290
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 291
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 292
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 293
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 294
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 295
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 296
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 297
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 298
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 299
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 300
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 21
+    [overall_score] => 12
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 4
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 6
+    [overall_score] => 4
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 301
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 302
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 303
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 304
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 305
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 306
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 307
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 308
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 309
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 310
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 311
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 312
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 313
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 314
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 315
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 316
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 317
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 318
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 319
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 320
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 321
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 322
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 323
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 324
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 325
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 326
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 327
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 3
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 8
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 328
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 329
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 330
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 331
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 332
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 333
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 334
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 335
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 336
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 337
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 338
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 339
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 340
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 341
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 342
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 343
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 344
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 345
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 346
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 347
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 348
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 349
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 350
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 351
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 352
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 353
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 354
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 355
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 356
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 357
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 358
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 359
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 360
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 361
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 362
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 363
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 364
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 365
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 366
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 18
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 4
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 367
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 368
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 369
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 370
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 371
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 372
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 373
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 374
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 375
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 376
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 377
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 378
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 379
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 380
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 381
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 382
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 383
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 384
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 385
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 386
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 387
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 388
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 389
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 390
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 8
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 391
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 392
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 393
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 394
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 395
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 396
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 397
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 398
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 399
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 400
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 401
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 402
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 403
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 404
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 405
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 406
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 407
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 408
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 409
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 410
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 411
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 412
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 413
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 414
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 415
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 416
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 417
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 418
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 419
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 420
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 1
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 4
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 15
+    [overall_score] => 5
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 421
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 422
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 423
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 424
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 425
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 426
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 427
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 428
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 429
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 430
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 431
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 432
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 433
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 434
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 435
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 436
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 437
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 438
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 439
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 440
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 441
+    [part] => Social
+    [subpart] => Human Rights & Labour Practices
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 442
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 443
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 444
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 445
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 446
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 447
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 448
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 449
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 450
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 451
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 452
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 453
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 454
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 455
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 456
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 457
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 458
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 459
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 460
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 461
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 462
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 463
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 464
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 465
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 466
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 467
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 468
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 469
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 470
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 471
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 472
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 473
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 474
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 475
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 476
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 477
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 478
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 479
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 480
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 21
+    [overall_score] => 14
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 3
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 6
+    [overall_score] => 2
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 481
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 482
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 483
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 484
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 485
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 486
+    [part] => Governance
+    [subpart] => Board Structure, Independence & Accountability
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 487
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 488
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 489
+    [part] => Governance
+    [subpart] => Data Privacy, Security & Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 490
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 491
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 492
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 493
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 494
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 495
+    [part] => Governance
+    [subpart] => Ethics & Codes of Conduct
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 496
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 497
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 498
+    [part] => Social
+    [subpart] => Community Involvement
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 499
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 500
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 501
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 502
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 503
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 504
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 505
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 506
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 507
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 3
+    [overall_score] => 3
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 12
+    [overall_score] => 6
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 12
+    [overall_score] => 7
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 508
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 509
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 510
+    [part] => Environmental
+    [subpart] => Air Pollution
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 511
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 512
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 513
+    [part] => Environmental
+    [subpart] => Climate Change
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 514
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 515
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 516
+    [part] => Environmental
+    [subpart] => Environmental Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 517
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 518
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 519
+    [part] => Environmental
+    [subpart] => Hazardous & Toxic Material Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 520
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 521
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 522
+    [part] => Environmental
+    [subpart] => Natural Resource Management & Use
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 523
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 524
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 525
+    [part] => Environmental
+    [subpart] => Pollution Prevention & Cleaner Production
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 526
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 527
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 528
+    [part] => Environmental
+    [subpart] => Regulatory Compliance
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 529
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 530
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 531
+    [part] => Environmental
+    [subpart] => Waste Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 532
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 533
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 534
+    [part] => Governance
+    [subpart] => ESG Management Practices & Processes
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 535
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 536
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 537
+    [part] => Governance
+    [subpart] => Supply Chain Management
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 538
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 539
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 540
+    [part] => Social
+    [subpart] => Consumer Safety & Product Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 541
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 542
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 543
+    [part] => Social
+    [subpart] => Regulatory compliance - Social
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 544
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 545
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => NO
+)
+
+Successfully inserted into hc_tr_analysis_calc: Array
+(
+    [response_id] => 546
+    [part] => Social
+    [subpart] => Worker Health & Safety
+    [response] => YES
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Environmental
+    [total_questions] => 24
+    [overall_score] => 17
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Governance
+    [total_questions] => 6
+    [overall_score] => 3
+)
+
+Successfully inserted into hc_tr_analysis_overall: Array
+(
+    [part] => Social
+    [total_questions] => 9
+    [overall_score] => 5
+)
+

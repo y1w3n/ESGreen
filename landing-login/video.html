@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization Page</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .gallery {
+            margin: 0;
+        }
+        .video {
+            width: 1100px;
+            height: 800px;
+            /* max-height: 750px; */
+        }
+        .button {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 10px 20px;
+            background-color: #4c6daf;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            display: none;
+        }
+        .button:hover {
+            background-color: #5c81cb;
+        }
+        .hover-area {
+            position: fixed;
+            top: 0;
+            right: 0;
+            width: 50px;
+            height: 50px;
+            z-index: 1000;
+        }
+        .hover-area:hover + .button,
+        .button:hover {
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <div class="gallery" id="gallery">
+        <video class="d-block w-100 video" controls>
+            <source src="assets/images/montage.mp4" type="video/mp4">
+        </video>
+        <div class="hover-area"></div>
+        <a href="landing_page.html" class="button">Back</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

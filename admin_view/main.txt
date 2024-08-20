@@ -1,0 +1,40 @@
+|-------Landing Page-------|
+1_main.html = Dashboard
+
+|-------Kanban Board-------|
+2_kb.php = Tasks
+
+|-------Users-------|
+3_user.php = List of users and generic Information
+3_user_edit.php = edit users 
+3_user_del.php = del users
+3_users_add.php = add users
+
+|------General Information-------|
+4_geninfo_mt.php = Generic Information (MT), include add & delete function
+4_geninfo_mt_edit.php = Generic Information edit function
+
+5_geninfo_tr.php = Generic Information submission, include delete function
+5_geninfo_tr_edit.php = Generic Information edit function
+
+|-------Materiality Assessment-------|
+6_ma_mt.php = Materiality Assessment questionnaire (MT) 
+6_ma_mt_edit.php = MAQ edit function 
+6_ma_mt_del.php = MQA del function 
+6_ma_mt_add.php = MQA add function 
+6_ma_mt_save.php = MQA update and save
+
+|-------Health Check-------|
+7_hc_mt.php = Health Check questionnaire (MT)
+7_hc_mt_edit.php = HC edit function
+7_hc_mt_del.php = HC del function
+7_hc_mt_add.php = HC add function
+7_hc_mt_save.php = HC save update function 
+
+|-------Users Submission-------|
+8_qs_tr.php = Questionnaire Submission (TR) (review_submissions.php)
+8_qs_det.php = submission details
+8_qs_tr_save.php = save and update
+8_qs_tr_edit.php = Questionnaire Submission edit function (edit_submissions.php & save_submissions.php)
+8_que_ss_edit.php = Users questionnaire submission status edit function
+**3_que_ss_del.php = Users questionnaire submission status delete function
